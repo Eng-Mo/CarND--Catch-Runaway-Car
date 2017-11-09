@@ -29,7 +29,7 @@ This project aims to solve the non-linearity problem in moving object by using t
 1. Clone this repo.
 2. Make a build directory: mkdir build && cd build
 3. Compile: cmake .. && make
-4. Run it: ./UnscentedKF22
+4. Run it: ./catchCar
 
 ---
 
